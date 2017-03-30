@@ -12,7 +12,7 @@ Antes de ejecutar el código aseguradte de haber realizado las acciones indicada
 Para ejecutar el simulador es necesario seguir los sigiuentes pasos:  
 1. Abrir terminal en Ubuntu / Fedora.  
 2. Clonar el repositorio:   `git clone https://github.com/AlexMtz/Estilos-De-Arquitectura-De-Software.git`  
-3. Ingresar a la carpeta que descargamos:   `cd Estilos-De-Arquitectura-De-Software/`    
+3. Ingresar a la carpeta que descargamos:   `cd Publica_Subscribe_DevForce/`    
 4. Ejecutar el simulador: `python Simulador.py`  
 
 Si el simulador se ejecuto de manera correcta encontraremos lo siguiente:  
